@@ -1,4 +1,4 @@
-<!docttype html>
+
 <html>
   <head>
 <title> page github </title>
